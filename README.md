@@ -31,14 +31,16 @@
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-.Net-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-
+<!-- Markup -->
+![](https://img.shields.io/badge/Markup-Latex-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- Official -->
 ![](https://img.shields.io/badge/Official-MS_Word-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Official-MS_Power_Point-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Official-MS_Excel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-Selt Info :
+## Selt Info :
 
 - 🔭 I’m currently working on ... Laravel
 - 🌱 I’m currently learning ... Multiplatform Deployement
