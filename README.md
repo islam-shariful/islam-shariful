@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/Official-MS_Power_Point-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Official-MS_Excel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-## Selt Info :
+## Self Info :
 
 - 🔭 I’m currently working on ... Laravel
 - 🌱 I’m currently learning ... Multiplatform Deployement
