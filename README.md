@@ -2,10 +2,7 @@
 ### Md. Shariful Islam (<a href="https://islam-shariful.github.io">Sharif</a>)
 # <a href="https://islam-shariful.github.io">Portfolio</a>
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/islam-shariful-counter&count_bg=%232BBC8A&title_bg=%23555555&icon=postwoman.svg&icon_color=%232BBC8A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+![](https://komarev.com/ghpvc/?username=islam-shariful&color=2BBC8A)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
