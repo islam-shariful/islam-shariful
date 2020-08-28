@@ -66,6 +66,6 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Look at my portfolio
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Working with jaavascript though hate it totally
+- ⚡ Fun fact: ... Working with javascript though hate it totally
 
 
