@@ -43,6 +43,11 @@
 ![](https://img.shields.io/badge/Tool-GitLab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-trello-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+
+<!-- Package Manager -->
+![](https://img.shields.io/badge/Package_Manager-NPM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Package_Manager-Composer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 <!-- Markup -->
 ![](https://img.shields.io/badge/Markup-Latex-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
