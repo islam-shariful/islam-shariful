@@ -60,10 +60,10 @@
 
 ## Self Info :
 
-- 🔭 I’m currently working on ... Laravel
+- 🔭 I’m currently working on ... Spring Boot
 - 🌱 I’m currently learning ... Multiplatform Deployement
-- 👯 I’m looking to collaborate on ... ReactJS
-- 🤔 I’m looking for help with ... Heroku deployement
+- 👯 I’m looking to collaborate on ... Laravel
+- 🤔 I’m looking for help with ... Heroku deployement[laravel application specially]
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Look at my portfolio
 - 😄 Pronouns: ... He
