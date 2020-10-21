@@ -90,7 +90,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-shariful&langs_count=12)](https://github.com/islam-shariful/github-readme-stats)
 
 #### Github Waka State CDN
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imdshariful)](https://github.com/islam-shariful/github-readme-stats)
+[![Shariful's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imdshariful)](https://github.com/islam-shariful/github-readme-stats)
 
 #### Github Waka State
 <!--START_SECTION:waka-->
