@@ -87,5 +87,5 @@
 
 #### Github Stats
 
-![Shariful's github stats](https://github-readme-stats.vercel.app/api?username=islam-shariful&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Shariful's github stats](https://github-readme-stats.vercel.app/api?username=islam-shariful&show_icons=true&theme=tokyonight)
 
