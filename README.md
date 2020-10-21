@@ -87,6 +87,9 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/islam-shariful/advanced_nodeJS_prac) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/islam-shariful/react-simple-project) 
 
+#### Github Waka State
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### Github Stats
 
