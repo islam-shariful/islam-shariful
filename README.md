@@ -55,6 +55,7 @@
 <!-- Package Manager -->
 ![](https://img.shields.io/badge/Package&nbsp;Manager-NPM-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Package&nbsp;Manager-Composer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Package&nbsp;Manager-NuGet-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- Markup -->
 ![](https://img.shields.io/badge/Markup-Latex-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
