@@ -80,12 +80,14 @@
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Working with javascript though hate it totally
 
-
 #### Top Technologies
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/islam-shariful/online-school-in-Express-and-mySQL) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/islam-shariful/advanced_nodeJS_prac) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/islam-shariful/react-simple-project) 
+
+#### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-shariful&langs_count=12)](https://github.com/islam-shariful/github-readme-stats)
 
 #### Github Waka State
 <!--START_SECTION:waka-->
