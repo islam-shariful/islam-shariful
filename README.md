@@ -39,13 +39,17 @@
 ![](https://img.shields.io/badge/Database-ORACLE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-<!-- Framework -->
-![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-.Net-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Spring&nbsp;Boot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-ReactJs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<!-- Backend Framework -->
+![](https://img.shields.io/badge/Backend-ExpressJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Laravel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-.Net-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Spring&nbsp;Boot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<!-- Frontend Framework -->
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-JQuery-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Reactstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- Tools -->
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
