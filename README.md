@@ -95,7 +95,8 @@
 #### Github Waka State
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       16 mins         █████████████████████▓░░░   87.18 % 
+Markdown   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 ```
 <!--END_SECTION:waka-->
 
