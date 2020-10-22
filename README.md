@@ -87,7 +87,7 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/islam-shariful/react-simple-project) 
 
 #### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-shariful&langs_count=12)](https://github.com/islam-shariful/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-shariful&langs_count=12&theme=blue-green)](https://github.com/islam-shariful/github-readme-stats)
 
 #### Github Waka State CDN
 [![Shariful's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imdshariful)](https://github.com/islam-shariful/github-readme-stats)
