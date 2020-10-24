@@ -102,8 +102,9 @@
 #### Github Waka State
 <!--START_SECTION:waka-->
 ```text
-YAML       16 mins         █████████████████████▓░░░   87.18 % 
-Markdown   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+YAML       16 mins         ████████████████████░░░░░   79.98 % 
+Markdown   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Other      1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 ```
 <!--END_SECTION:waka-->
 
