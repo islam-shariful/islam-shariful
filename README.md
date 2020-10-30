@@ -79,7 +79,7 @@
 
 ## Self Info :
 
-- 🔭 I’m currently working on ... Spring Boot
+- 🔭 I’m currently working on ... ASP.Net
 - 🌱 I’m currently learning ... Multiplatform Deployement
 - 👯 I’m looking to collaborate on ... Laravel
 - 🤔 I’m looking for help with ... Heroku deployement[laravel application specially]
