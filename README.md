@@ -112,3 +112,22 @@ Other        23 mins         █▒░░░░░░░░░░░░░░░
 
 ![Shariful's github stats](https://github-readme-stats.vercel.app/api?username=islam-shariful&show_icons=true&theme=tokyonight)
 
+#### Language Statistics
+<p align="center">
+<img src="https://wakatime.com/share/@imdshariful/e769405d-cf1e-44b5-bf3f-1e1a333d0f68.svg" height="400px" width="500px" />
+</p>
+
+#### Editors Statistics
+<p align="center">
+<img src="https://wakatime.com/share/@imdshariful/17319e94-c069-4218-9646-ad574802e9b5.svg" height="400px" width="500px" />
+</p>
+
+#### Coding Activity Since <i>Oct 21st 2020</i>
+<p align="center">
+<img src="https://wakatime.com/share/@imdshariful/e89fe493-2de3-4a01-81ac-b32faff8d41f.svg" height="400px" width="500px" />
+</p>
+
+#### OS Statistics
+<p align="center">
+<img src="https://wakatime.com/share/@imdshariful/64db55d5-15fa-4a1c-9294-3d59cae994cd.svg" height="400px" width="500px" />
+</p>
