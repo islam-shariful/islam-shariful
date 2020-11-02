@@ -119,7 +119,7 @@ JavaScript   24 mins         █▒░░░░░░░░░░░░░░░
 
 #### Editors Statistics
 <p align="center">
-<img src="https://wakatime.com/share/@imdshariful/17319e94-c069-4218-9646-ad574802e9b5.svg" height="400px" width="500px" />
+<img src="https://wakatime.com/share/@imdshariful/3dfb62b3-0aa0-4419-a03a-ab19c09baf4a.svg" height="400px" width="500px" />
 </p>
 
 #### Coding Activity Since <i>Oct 21st 2020</i>
