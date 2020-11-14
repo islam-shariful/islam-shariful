@@ -100,9 +100,9 @@
 #### Github Waka State
 <!--START_SECTION:waka-->
 ```text
-C#       6 hrs 19 mins   ███████████████░░░░░░░░░░   60.49 % 
-Other    2 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.31 % 
-CSHTML   1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+C#       7 hrs 14 mins   ████████████████░░░░░░░░░   63.36 % 
+Other    2 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 % 
+CSHTML   1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 ```
 <!--END_SECTION:waka-->
 
