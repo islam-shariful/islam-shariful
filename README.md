@@ -97,7 +97,7 @@
 #### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islam-shariful&langs_count=12&theme=blue-green)](https://github.com/islam-shariful/github-readme-stats)
 
-#### Github Waka State
+#### Github Waka State [Weekly]
 <!--START_SECTION:waka-->
 ```text
 C#       9 hrs 32 mins   █████████████░░░░░░░░░░░░   52.56 % 
