@@ -112,7 +112,7 @@ Python     3 mins          ░░░░░░░░░░░░░░░░░�
 
 #### Language Statistics
 <p align="center">
-<img src="https://wakatime.com/share/@imdshariful/1210208c-9897-422b-be0b-239416c0f8c9.png" height="400px" width="500px" />
+<img src="https://wakatime.com/share/@imdshariful/c87d45d0-526c-4792-9aac-d999aff00e31.png" height="400px" width="500px" />
 </p>
 
 #### Editors Statistics
