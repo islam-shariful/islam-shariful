@@ -100,7 +100,9 @@
 #### Github Waka State [Weekly]
 <!--START_SECTION:waka-->
 ```text
-Java    9 hrs 34 mins   █████████████████████████   100.00 % 
+Java       11 hrs 36 mins  ████████████████████████▓   98.36 % 
+Text       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Python     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
 
