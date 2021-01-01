@@ -100,9 +100,8 @@
 #### Github Waka State [Weekly]
 <!--START_SECTION:waka-->
 ```text
-C#         5 hrs 2 mins    ██████████████████████░░░   88.65 % 
-Other      26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-HTML       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+C#         4 hrs 6 mins    █████████████████████▓░░░   86.56 % 
+Other      38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 % 
 ```
 <!--END_SECTION:waka-->
 
