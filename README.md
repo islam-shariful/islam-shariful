@@ -100,7 +100,9 @@
 #### Github Waka State [Weekly]
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Blade Template   1 hr 27 mins    ███████████▓░░░░░░░░░░░░░   47.23 % 
+PHP              1 hr 25 mins    ███████████▓░░░░░░░░░░░░░   46.49 % 
+JSON             11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 <!--END_SECTION:waka-->
 
