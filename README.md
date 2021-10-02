@@ -100,11 +100,11 @@
 #### Github Waka State [Weekly]
 <!--START_SECTION:waka-->
 ```text
-Blade Template   18 hrs 12 mins  ████████████▒░░░░░░░░░░░░   49.50 % 
-PHP              16 hrs 54 mins  ███████████▒░░░░░░░░░░░░░   45.96 % 
-JavaScript       41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-HTML             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Blade Template   17 hrs 48 mins  ███████████▓░░░░░░░░░░░░░   47.09 % 
+PHP              16 hrs 53 mins  ███████████▒░░░░░░░░░░░░░   44.68 % 
+HTML             1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+JavaScript       51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
 
