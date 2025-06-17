@@ -1,5 +1,35 @@
 ## Hi! Myself <em>Md. Shariful Islam</em> (<a href="https://islamshariful.com">Sharif</a>) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+## Languages and Tools:
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/aspnet/aspnet-icon.svg" alt="ASP.NET" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/products/workbench" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL Workbench" width="40" height="40"/></a>
+  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" width="40" height="40"/></a>
+  <a href="https://getcomposer.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getcomposer/getcomposer-icon.svg" alt="Composer" width="40" height="40"/></a>
+  <a href="https://www.nuget.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" alt="NuGet" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/></a>
+  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/visualstudio-icon.svg" alt="Visual Studio" width="40" height="40"/></a>
+  <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/daringfireball/daringfireball-icon.svg" alt="Markdown" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/word-icon.svg" alt="MS Word" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/powerpoint-icon.svg" alt="MS PowerPoint" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/excel-icon.svg" alt="MS Excel" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-teams" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/teams-icon.svg" alt="MS Teams" width="40" height="40"/></a>
+</p>
+
 # <a href="https://islamshariful.com">Portfolio</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mailbox: Reach me out!
 
